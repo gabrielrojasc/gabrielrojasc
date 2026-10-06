@@ -1,16 +1,14 @@
-## Hi there 👋
+# Gabriel Rojas Chamorro
 
-<!--
-**gabrielrojasc/gabrielrojasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer working on backend systems and applied AI. I build Go and Python services on AWS, currently at [ZeroFox](https://www.zerofox.com/).
 
-Here are some ideas to get you started:
+At ZeroFox I designed an LLM-based threat-actor ranking system for Executive Protection, moved our LLM usage behind a central LiteLLM gateway with per-service cost attribution, and led the migration of 7+ services from Elasticsearch 5 to 7 with zero data loss.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open source
+
+- [steipete/CodexBar#3565](https://github.com/steipete/CodexBar/pull/3565): fix(spend): preserve calendar days across midnight DST
+
+## Projects
+
+- [skills](https://github.com/gabrielrojasc/skills): reusable agent skills for Claude Code and Codex.
+- [sgsi](https://github.com/gabrielrojasc/sgsi): ISO 27001 audit platform from my thesis, deployed at Magnet SPA.
