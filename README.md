@@ -6,6 +6,9 @@ At ZeroFox I designed an LLM-based threat-actor ranking system for Executive Pro
 
 ## Open source
 
+- [steipete/CodexBar#4290](https://github.com/steipete/CodexBar/pull/4290): Count drifted Codex ledger mirrors once
+- [steipete/CodexBar#4279](https://github.com/steipete/CodexBar/pull/4279): Keep priced Codex subtotals when some requests are unpriced
+- [steipete/CodexBar#4270](https://github.com/steipete/CodexBar/pull/4270): Keep Codex ledger pricing across 0.72.0 cache upgrades
 - [steipete/CodexBar#3565](https://github.com/steipete/CodexBar/pull/3565): fix(spend): preserve calendar days across midnight DST
 
 ## Projects
