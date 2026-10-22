@@ -1,14 +1,10 @@
 # Gabriel Rojas Chamorro
 
-Software engineer working on backend systems and applied AI. I build Go and Python services on AWS, currently at [ZeroFox](https://www.zerofox.com/).
+Software engineer working on backend systems and applied AI. I build things, currently at [ZeroFox](https://www.zerofox.com/) and [RunMyDay](https://runmyday.ai/).
 
-At ZeroFox I:
+At ZeroFox I'm building internal AI code review and approval tooling. Before that, I led a nine-month Elasticsearch 5 to 7 migration across 7 repositories, including a Go compatibility proxy that now serves about 4.9B requests a month at 24 ms p99. I also cut the duplicate rate in analyst alerts from about 25% to under 5%.
 
-- Designed the pipeline behind Loud Voices, an Executive Protection feature that flags accounts repeatedly or threateningly targeting a client's executives, and built its Go LLM worker. In September 2026 it processed about 158k profiles at 99.98% success.
-- Moved 18 Executive Protection LLM components onto the company's LiteLLM gateway, with a key per component so spend is attributable by component and model.
-- Led Executive Protection's observability project: OpenTelemetry tracing, Prometheus metrics, a Grafana dashboard, and 14 alerts with responder playbooks. The alerts led to 10 tracked fixes.
-- Led a nine-month Elasticsearch 5 to 7 migration across 7 repositories, including a Go compatibility proxy that now serves about 4.9B requests a month at 24 ms p99.
-- Cut the duplicate rate in analyst alerts from about 25% to under 5% with MySQL and Redis deduplication.
+RunMyDay is a three-person startup that builds custom AI agents for companies, and I'm responsible for technology and AI. Our agents connect to a client's systems and work with its team over WhatsApp. [CSByte](https://runmyday.ai/clientes/csbyte/), for example, uses three of them to turn its Odoo data into inventory and purchasing recommendations. I run the infrastructure that keeps those agents in production, including deploys, runtime upgrades, and monitoring, and I build features for them.
 
 ## Open source
 
